@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "03dbe717-34a5-4dc8-b496-30dffb6d112a")
 	(paper "A4")
+	(title_block
+		(title "Mechanical Trigger PCB for GC Ultimate")
+		(date "2024-10-29")
+		(company "Hand Held Legend, LLC")
+		(comment 1 "Designed by Mitch Cairns")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
@@ -554,6 +560,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "-"
+			(at 240.03 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "-"
+			(at 240.03 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "-"
+			(at 240.03 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "24daf721-54c2-4916-bed9-7d197feef809")
 		)
@@ -561,7 +594,7 @@
 			(uuid "f2cd6223-f2ec-4163-a906-88961e900753")
 		)
 		(instances
-			(project "UGC_MechTrigger_R4K"
+			(project "UGC_MechTrigger"
 				(path "/03dbe717-34a5-4dc8-b496-30dffb6d112a"
 					(reference "SW1")
 					(unit 1)
@@ -624,6 +657,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 238.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 238.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 238.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce6f40e0-abf7-4011-8a81-f9e5d3ab54a6")
 		)
@@ -631,7 +691,7 @@
 			(uuid "333b610e-212e-4cd8-b4d7-099104fb9a92")
 		)
 		(instances
-			(project "UGC_MechTrigger_R4K"
+			(project "UGC_MechTrigger"
 				(path "/03dbe717-34a5-4dc8-b496-30dffb6d112a"
 					(reference "J2")
 					(unit 1)
@@ -694,6 +754,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5484e14e-31d3-46d4-a40c-15b9c2d1051e")
 		)
@@ -701,7 +788,7 @@
 			(uuid "643a1736-d054-46c7-94ee-a3ba5bff2c6f")
 		)
 		(instances
-			(project "UGC_MechTrigger_R4K"
+			(project "UGC_MechTrigger"
 				(path "/03dbe717-34a5-4dc8-b496-30dffb6d112a"
 					(reference "J1")
 					(unit 1)

@@ -1,0 +1,5 @@
+"#","Reference","Qty","MPN","Description","Value","Package","LCSC","Link","DNP"
+"1","SW1","1","GL1807SYAE-002","TMR Analog Stick with button","GL18_SW","-","-","-",""
+"2","R1,R2","2","RC0201FR-071KL "," 50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 1kΩ","1k","0201","C138165","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-071KL_C138165.html",""
+"3","C1,C2","2","CC0603JRX7R9BB473"," 50V 47nF X7R ±5%","47nF","0603","C519554","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603JRX7R9BB473_C519554.html",""
+"4","J2","1","5034800640","Connector FFC/FPC Connector Socket 6 Position 0.5mm Solder Right Angle Surface Mount Emboss T/R","503480-0640","SMD,P=0.5mm,Surface Mount，Right Angle","C3168077","https://www.lcsc.com/product-detail/FFC-FPC-Flat-Flexible-Connector-Assemblies_MOLEX-5034800640_C3168077.html",""

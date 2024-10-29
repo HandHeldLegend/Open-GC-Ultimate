@@ -107,7 +107,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Production/MechTrigger_R4K/gerber/")
+			(outputdirectory "../Production/MechTrigger/gerber/")
 		)
 	)
 	(net 0 "")
