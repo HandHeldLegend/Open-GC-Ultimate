@@ -22973,9 +22973,9 @@
 		(at 417.83 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5eb738f4-6c82-41b2-b0e5-71d4584fd967")
 		(property "Reference" "RV2"
 			(at 415.798 45.466 90)
@@ -24998,9 +24998,9 @@
 		(at 386.08 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "87767447-d42c-4c1e-a60b-8058896b79be")
 		(property "Reference" "RV1"
 			(at 384.048 45.466 90)
